@@ -1,16 +1,22 @@
-## Hi there 👋
+## HI, I am Sai Wone Lain Khao<br/>
+# 💫 About Me:
 
-<!--
-**Steven-Wone/Steven-Wone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Self-Learning on coding and programing<br/>
+🎓 Plan to continue my study wit a Computer Science Major
 
-Here are some ideas to get you started
 
-- 🔭 I’m currently working on my portfolio website
-- 🌱 I’m currently learning HTML/CSS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: te-Wl30K
-- 😄 Pronouns: He/HIM
-- ⚡ Fun fact: I am Shan
--->
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saiwonelainkhao@gmail.com) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Steven-Wone&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Steven-Wone&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Steven-Wone&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Steven-Wone&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Steven-Wone&icon=0&color=1)](https://visitcount.itsvg.in)
