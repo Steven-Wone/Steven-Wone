@@ -2,7 +2,7 @@
 # 💫 About Me:
 
 💻 Self-Learning on coding and programing<br/>
-🎓 Plan to continue my study wit a Computer Science Major
+🎓 Plan to continue my study with a Computer Science Major
 
 
 ## 🌐 Socials:
